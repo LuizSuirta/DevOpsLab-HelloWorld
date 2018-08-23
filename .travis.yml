@@ -20,5 +20,6 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $REPARE API KEY
+    secure: $REPARE_API_KEY
   app: reparedevops
+
